@@ -11,7 +11,7 @@ The heatmap can be visualized in the file "heatmap_Carla_update.html". The origi
 
 # Lefse analysis (Figure 06)
 
-The lefse analysis was done in lefser package. 
+The lefse analysis was done in lefser package. Code can be view in lefse_analysis_lefser.R file. Original dataset are named as "normalized_genus Male C versus EtCr.csv", 
 
 # Barplot for male and female (Figures 07 and 08)
 
