@@ -9,7 +9,7 @@ PcoA's plots from qiime 2.0 were modified in R. The code can be found in "PcoA_r
 
 The heatmap can be visualized in the file "heatmap_Carla_update.html". The original datasets can be found as normalized_genus FEMEAS.csv and normalized_genus MACHOS.csv for female and male, respectively.
 
-# Lefse analysis
+# Lefse analysis (Figure 06)
 
 The lefse analysis was done in lefser package. 
 
