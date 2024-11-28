@@ -15,7 +15,7 @@ The lefse analysis was done in lefser package. Code can be view in lefse_analysi
 
 # Barplot for male and female (Figures 07 and 08)
 
-The visualization of codes and figures 7 and 8 from barplot of relative abundance from male and female can be found in male_barplot.html and female_barplot.html, respectively. The original datasets from male and female barplots can be visualized in male_modified.csv and female_modified.csv, respectively.
+The visualization of codes and figures 7 and 8 from barplot of relative abundance from male and female can be found in male_barplot_script.html and female_barplot.html, respectively. The original datasets from male and female barplots can be visualized in male_modified.csv and female_modified.csv, respectively.
 
 # Rarefaction curve (Figure S1)
 
