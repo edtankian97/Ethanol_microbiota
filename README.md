@@ -15,11 +15,15 @@ The lefse analysis was done in lefser package. Code can be view in lefse_analysi
 
 # Barplot for male and female (Figures 07 and 08)
 
-The visualization of codes and figures 7 and 8 from barplot of relative abundance from male and female can be found in male_barplot_script.html and female_barplot.html, respectively. The original datasets from male and female barplots can be visualized in male_modified.csv and female_modified.csv, respectively.
+
 
 # Rarefaction curve (Figure S1)
 
 Rarefaction curve was modified in R and the result can be visualized in the file "PcoA_rarefaction_curve_modified.html". Original datasets are named as "shannon_male.csv" and "shannon_female.csv" for male and female, respectively.
+
+# Barplot for male and female (Figures S7 and S8)
+
+The visualization of codes and figures S7 and S8 from barplot of prediction's pathway from male and female can be found in male_barplot_script.html and female_barplot.html, respectively. The original datasets from male and female barplots can be visualized in male_modified.csv and female_modified.csv, respectively.
 
 # Supplementary Material
 
