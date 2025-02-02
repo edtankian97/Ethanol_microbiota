@@ -18,7 +18,7 @@ The lefse analysis was done in lefser package. Code can be view in **lefse_analy
 Code with barplots of relative abundance of bacterias in male and female mice can be visualized in **relative_abundance.ipynb**. Raw results of statistical analysis are in separated files: 
 **Kruskal_male_result_abundance.tsv** and **Kruskal_female_result_abundance.tsv** for male and female, respectively.
 
-# Rarefaction curve (Figure S1)
+# Rarefaction curve (Figure S3)
 
 Rarefaction curve was modified in R and the result can be visualized in the file "PcoA_rarefaction_curve_modified.html". Original datasets are named as **shannon_male.csv** and **shannon_female.csv** for male and female, respectively.
 
